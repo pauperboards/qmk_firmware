@@ -2,7 +2,7 @@
 
 ![pauperboards/pixie](imgur.com image replace me!)
 
-*A short description of the keyboard/project*
+*Pixie*
 
 * Keyboard Maintainer: [pauperboards](https://github.com/pauperboards)
 * Hardware Supported: *The PCBs, controllers supported*
