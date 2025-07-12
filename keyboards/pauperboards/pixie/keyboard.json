@@ -43,6 +43,7 @@
         "enabled": false
     },
     "layout_aliases": {
+        "LAYOUT": "LAYOUT_3x10_4",
         "LAYOUT_4key": "LAYOUT_3x10_4",
         "LAYOUT_6key": "LAYOUT_3x10_6"
     },
